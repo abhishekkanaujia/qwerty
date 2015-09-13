@@ -1,1 +1,5 @@
 # qwerty
+<?php
+echo 'welcome';
+?>
+
